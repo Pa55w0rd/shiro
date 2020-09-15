@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb08916-cff9-4d5d-9ec8-8d3bf992efb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shiro.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600065620541</updated>
-      <workItem from="1600065625132" duration="1479000" />
+      <workItem from="1600065625132" duration="2267000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1600066829648</created>
@@ -69,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600066829648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1600067120473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600067120473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1600067154257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600067154257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1600067226933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600067226933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,14 +112,14 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="492" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1474.864@0.0.1474.864" timestamp="1600067060218" />
-    <state x="341" y="26" key="CommitChangelistDialog2" timestamp="1600067153602">
+    <state x="341" y="26" key="CommitChangelistDialog2" timestamp="1600067226197">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="341" y="26" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1600067153602" />
-    <state x="330" y="166" key="Vcs.Push.Dialog.v2" timestamp="1600067167450">
+    <state x="341" y="26" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1600067226197" />
+    <state x="330" y="166" key="Vcs.Push.Dialog.v2" timestamp="1600067242441">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="166" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1600067167450" />
+    <state x="330" y="166" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1600067242441" />
     <state x="418" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600065625339">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
